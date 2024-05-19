@@ -1,8 +1,8 @@
 # app-dev
 My first repository.
 
-<h3>favorite series/movie.<h3>
-<p>**Favorite Song**</p>
+<h3>favorite series/movie.</h3>
+**Favorite Song**
 1. One Beer - MFDOOM
 2. NUMBER, NUMBER - Tyler, The Creator 
 3. Kendrick Lamar - DNA
