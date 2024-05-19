@@ -1,7 +1,8 @@
 # app-dev
 My first repository.
 
-#favorite series/movie.____
+#favorite series/movie.
+
 *Favorite Song*
 1. One Beer - MFDOOM
 2. NUMBER, NUMBER - Tyler, The Creator 
@@ -13,4 +14,5 @@ My first repository.
 - Silent Voice
 
 Name: Cydrx Ian C. Malla
+
 Section: BT501
