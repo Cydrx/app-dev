@@ -1,7 +1,7 @@
 # app-dev
 My first repository.
 
-<h1>favorite series/movie.<h1>
+<h3>favorite series/movie.<h3>
 
 **Favorite Song**
 1. One Beer - MFDOOM
