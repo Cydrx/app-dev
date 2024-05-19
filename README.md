@@ -13,6 +13,5 @@ My first repository.
 - Shrek
 - Silent Voice
 
-Name: Cydrx Ian C. Malla
-
-Section: BT501
+<p>Name: Cydrx Ian C. Malla.</p>
+<p>Section: BT501.</p>
